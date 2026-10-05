@@ -1,0 +1,9 @@
+requests
+pandas
+duckdb
+dlt[duckdb]
+dbt-duckdb
+fastapi
+uvicorn[standard]
+prefect
+ipykernel
